@@ -1,6 +1,6 @@
 👋 Hi, I’m @generatingcode
 
-🌱 I’m currently learning networking as code
+🌱 I’m currently learning python
 
 
 <!---
